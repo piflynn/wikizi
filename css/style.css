@@ -1,0 +1,28 @@
+html,
+body {
+  height: 100%;
+  background: #190E4F; /* For browsers that do not support gradients */
+  background: linear-gradient(to bottom right, #190E4F, #EF2D56); /* Standard syntax (must be last) */
+  background-attachment: fixed;
+
+  font-family: Playfair Display SC;
+}
+
+.navbar-inverse {
+	background: rgba(0,0,0,.3);
+	border: none;
+}
+
+.wrapper {
+	color: #fff;
+}
+
+#brand {
+  color: #84F210;
+}
+
+#title {
+  color: #84F210;
+  font-size: 5rem;
+}
+
