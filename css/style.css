@@ -8,6 +8,11 @@ body {
   font-family: Playfair Display SC;
 }
 
+footer {
+  margin-top: 100px;
+  margin-bottom: 20px;
+}
+
 .navbar-inverse {
 	background: rgba(0,0,0,.3);
 	border: none;
@@ -24,5 +29,9 @@ body {
 #title {
   color: #84F210;
   font-size: 5rem;
+}
+
+#signature {
+  color: #84F210;
 }
 
